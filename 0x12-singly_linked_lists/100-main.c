@@ -1,5 +1,3 @@
-#include "1-pi.h"
-#include "1-pi.h"
 #include <stdio.h>
 /**
  * main - check the code
@@ -8,11 +6,7 @@
  */
 int main(void)
 {
-	float a;
-	float r;
-
-	r = 98;
-	a = PI * r * r;
-	printf("%.3f\n", a);
+	printf("(A tortoise, having pretty good sense of
+		a hare's nature, challenges one to a race.)\n");
 	return (0);
 }
